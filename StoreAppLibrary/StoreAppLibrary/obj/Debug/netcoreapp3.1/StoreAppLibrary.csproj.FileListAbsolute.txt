@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\C#\Today\StoreAppLibrary\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Today\StoreAppLibrary\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Today\StoreAppLibrary\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Today\StoreAppLibrary\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Today\StoreAppLibrary\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.csproj.CoreCompileInputs.cache
